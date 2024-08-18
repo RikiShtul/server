@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "server.Controllers.CountriesController",
+    "Method": "Get",
+    "RelativePath": "api/Countries/GetAsianCountries",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

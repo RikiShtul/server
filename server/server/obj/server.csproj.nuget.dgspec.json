@@ -1,0 +1,353 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mg\\חומר לימודי\\תרגול לראיון עבודה\\server\\server\\server.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mg\\חומר לימודי\\תרגול לראיון עבודה\\server\\interfaces\\interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mg\\חומר לימודי\\תרגול לראיון עבודה\\server\\interfaces\\interfaces.csproj",
+        "projectName": "interfaces",
+        "projectPath": "C:\\Users\\mg\\חומר לימודי\\תרגול לראיון עבודה\\server\\interfaces\\interfaces.csproj",
+        "packagesPath": "C:\\Users\\mg\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mg\\חומר לימודי\\תרגול לראיון עבודה\\server\\interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\mg\\חומר לימודי\\תרגול לראיון עבודה\\server\\models\\models.csproj": {
+                "projectPath": "C:\\Users\\mg\\חומר לימודי\\תרגול לראיון עבודה\\server\\models\\models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mg\\חומר לימודי\\תרגול לראיון עבודה\\server\\models\\models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mg\\חומר לימודי\\תרגול לראיון עבודה\\server\\models\\models.csproj",
+        "projectName": "models",
+        "projectPath": "C:\\Users\\mg\\חומר לימודי\\תרגול לראיון עבודה\\server\\models\\models.csproj",
+        "packagesPath": "C:\\Users\\mg\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mg\\חומר לימודי\\תרגול לראיון עבודה\\server\\models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mg\\חומר לימודי\\תרגול לראיון עבודה\\server\\repositories\\repositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mg\\חומר לימודי\\תרגול לראיון עבודה\\server\\repositories\\repositories.csproj",
+        "projectName": "repositories",
+        "projectPath": "C:\\Users\\mg\\חומר לימודי\\תרגול לראיון עבודה\\server\\repositories\\repositories.csproj",
+        "packagesPath": "C:\\Users\\mg\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mg\\חומר לימודי\\תרגול לראיון עבודה\\server\\repositories\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\mg\\חומר לימודי\\תרגול לראיון עבודה\\server\\interfaces\\interfaces.csproj": {
+                "projectPath": "C:\\Users\\mg\\חומר לימודי\\תרגול לראיון עבודה\\server\\interfaces\\interfaces.csproj"
+              },
+              "C:\\Users\\mg\\חומר לימודי\\תרגול לראיון עבודה\\server\\models\\models.csproj": {
+                "projectPath": "C:\\Users\\mg\\חומר לימודי\\תרגול לראיון עבודה\\server\\models\\models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mg\\חומר לימודי\\תרגול לראיון עבודה\\server\\server\\server.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mg\\חומר לימודי\\תרגול לראיון עבודה\\server\\server\\server.csproj",
+        "projectName": "server",
+        "projectPath": "C:\\Users\\mg\\חומר לימודי\\תרגול לראיון עבודה\\server\\server\\server.csproj",
+        "packagesPath": "C:\\Users\\mg\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mg\\חומר לימודי\\תרגול לראיון עבודה\\server\\server\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\mg\\חומר לימודי\\תרגול לראיון עבודה\\server\\interfaces\\interfaces.csproj": {
+                "projectPath": "C:\\Users\\mg\\חומר לימודי\\תרגול לראיון עבודה\\server\\interfaces\\interfaces.csproj"
+              },
+              "C:\\Users\\mg\\חומר לימודי\\תרגול לראיון עבודה\\server\\repositories\\repositories.csproj": {
+                "projectPath": "C:\\Users\\mg\\חומר לימודי\\תרגול לראיון עבודה\\server\\repositories\\repositories.csproj"
+              },
+              "C:\\Users\\mg\\חומר לימודי\\תרגול לראיון עבודה\\server\\services\\services.csproj": {
+                "projectPath": "C:\\Users\\mg\\חומר לימודי\\תרגול לראיון עבודה\\server\\services\\services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mg\\חומר לימודי\\תרגול לראיון עבודה\\server\\services\\services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mg\\חומר לימודי\\תרגול לראיון עבודה\\server\\services\\services.csproj",
+        "projectName": "services",
+        "projectPath": "C:\\Users\\mg\\חומר לימודי\\תרגול לראיון עבודה\\server\\services\\services.csproj",
+        "packagesPath": "C:\\Users\\mg\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mg\\חומר לימודי\\תרגול לראיון עבודה\\server\\services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\mg\\חומר לימודי\\תרגול לראיון עבודה\\server\\interfaces\\interfaces.csproj": {
+                "projectPath": "C:\\Users\\mg\\חומר לימודי\\תרגול לראיון עבודה\\server\\interfaces\\interfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
